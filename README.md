@@ -23,7 +23,7 @@ The interactive Power BI dashboard provides insights on:
 
 ### 🖼️ Dashboard Snapshot
 
-![Overview of the Power BI dashboard showing key Ballon d'Or statistics.] (Dashboards/Overview.png)
+![Overview of the Power BI dashboard showing key Ballon d'Or statistics.](Dashboards/Overview.png)
 
 
 
